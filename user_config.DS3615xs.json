@@ -1,13 +1,13 @@
 {
   "extra_cmdline": {
-    "vid": "0x46f4",
-    "pid": "0x0001",
-    "sn": "1130LWN123456",
-    "mac1": "001132123456"
+    "vid": "0xFFFF",
+    "pid": "0x5678",
+    "sn": "1150LWN002469",
+    "netif_num":"2",
+    "mac1": "08674EDDB872",
+    "mac2": "08674EDDB874"
   },
-  "synoinfo": {
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no"
-  },
-  "ramdisk_copy": {}
+  "synoinfo": {},
+  "ramdisk_copy": {},
+  "extensions": []
 }
